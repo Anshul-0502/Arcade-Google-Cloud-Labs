@@ -23,7 +23,7 @@ clear
 
 # Welcome message
 echo "${GREEN_TEXT}${BOLD_TEXT}=========================================================${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}       Subscribe SakshamXTech - INITIATING EXECUTION     ${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}       ANSHUL DHIMAN - INITIATING EXECUTION     ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}=========================================================${RESET_FORMAT}"
 echo
 
@@ -136,6 +136,4 @@ echo "${GREEN_TEXT}${BOLD_TEXT}=================================================
 echo "${GREEN_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
 echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 
-echo
-echo "${GREEN_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@sakshamxtech${RESET_FORMAT}"
 echo
